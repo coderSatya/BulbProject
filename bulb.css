@@ -1,0 +1,43 @@
+/*.bulb{
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    text-align: center;
+}
+button{
+    font-size: 30px;
+ 
+    margin: 10px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}*/
+img{
+    height:700px;
+}
+.header{
+    text-align: center;
+}
+h1{
+    color:brown;
+    font-size: 70px;
+    font-weight: bold;
+}
+button{
+    font-size: 30px;
+    margin:10px;
+
+}
+button:hover{
+    background-color: green;
+    color:white;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
